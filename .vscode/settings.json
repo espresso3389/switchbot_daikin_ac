@@ -1,6 +1,13 @@
 {
     "cSpell.words": [
         "BLEUUID",
-        "daikin"
-    ]
+        "crankyoldgit",
+        "daikin",
+        "odekake"
+    ],
+    "files.associations": {
+        "functional": "cpp",
+        "array": "cpp",
+        "string_view": "cpp"
+    }
 }
